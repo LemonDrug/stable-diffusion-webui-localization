@@ -1,0 +1,255 @@
+﻿Info,English,Chinese,Japanese,Korean
+Version,1.0.0[Bate],1.0.0[Bate],1.0.0[Bate],1.0.0[Bate]
+UPDataTime,2022.10.14 | 20:30,2022.10.14 | 20:30,2022.10.14 | 20:30,2022.10.14 | 20:30
+GitHub,AUTOMATIC1111,AUTOMATIC1111,AUTOMATIC1111,AUTOMATIC1111
+QQGroup,436102543,436102543,436102543,436102543
+Email,15868633@qq.com,15868633@qq.com,15868633@qq.com,15868633@qq.com
+JoinQQGroupURL,https://jq.qq.com/?_wv=1027&k=65Bt4lf8,https://jq.qq.com/?_wv=1027&k=65Bt4lf8,https://jq.qq.com/?_wv=1027&k=65Bt4lf8,https://jq.qq.com/?_wv=1027&k=65Bt4lf8
+Credits,By.PhiltreX,作者：三岁药,By.PhiltreX,By.PhiltreX
+GetInfo,Getting version info…,获取版本信息中…,バージョン情報を取得しています…,버전 정보를 가져오는 중…
+InfodateUpOK,Version information updated,版本信息更新完毕,バージョン情報を更新しました,버전 정보 업데이트됨
+SelectEN,The currently selected language is English,当前选择的语言为英文,現在選択されている言語は英語です,현재 선택된 언어는 영어입니다
+SelectCH,The currently selected language is Chinese,当前选择的语言为中文,現在選択されている言語は中国語です,현재 선택된 언어는 중국어입니다
+SelectJP,The currently selected language is Japanese,当前选择的语言为日语,現在選択されている言語は日本語です,현재 선택된 언어는 일본어입니다
+SelectKR,The currently selected language is Korean,当前选择的语言为韩语,現在選択されている言語は韓国語です,현재 선택된 언어는 한국어입니다
+LodingLanguage,Setting language…,正在汉化中…,言語を設定しています…,언어 설정 중…
+Hide,Hide,隐藏,隠れる,숨다
+Home,Home,首页,表紙,첫 장
+Help,Help,帮助,ヘルプ,돕다
+Feedback,Feedback,反馈,フィードバック,피드백
+About,About,关于,約,~에 대한
+Donate,Donate,捐赠,寄付,기부하다
+other,other,其它,他の,다른
+Start,Start,开始,始める,시작
+Bilingual,Bilingual display,双语显示 | English,バイリンガル表示 | English,이중 언어 디스플레이 | English
+AppName,StableDiffusionDrug - Language localization software,StableDiffusionDrug -全自动汉化程序,StableDiffusionDrug - 言語ローカリゼーション ソフトウェア,StableDiffusionDrug - 언어 현지화 소프트웨어
+WindowTitle,StableDiffusionDrug,StableDiffusionDrug,StableDiffusionDrug,StableDiffusionDrug
+L_Name,Drug,Drug,Drug,Drug
+WEBGUINAME,Web GUI | English,Web GUI | 汉化,Web GUI | 日本,Web GUI | 한국인
+Log,Log:,日志：,ログ:,통나무:
+BUGURL,https://wj.qq.com/s2/10956169/5ac5/,https://wj.qq.com/s2/10956169/5ac5/,https://wj.qq.com/s2/10956169/5ac5/,https://wj.qq.com/s2/10956169/5ac5/
+feature,"Features of this program:
+Non-destructive localization, no need to overwrite any files, and can be adapted to any offline or Git version of Auto111111.","本程序特色：
+非破坏性汉化，无需覆盖任何文件，可以适配任何Auto111111的离线或Git版本。","このプログラムの特徴:
+非破壊的なローカリゼーションで、ファイルを上書きする必要がなく、Auto111111 のオフライン バージョンまたは Git バージョンに適応できます。","이 프로그램의 특징:
+비파괴 현지화, 파일을 덮어쓸 필요가 없으며 Auto111111의 모든 오프라인 또는 Git 버전에 적용할 수 있습니다."
+UsingHelp,"Steps for usage:
+1. The latest version of Google Chrome needs to be installed on the computer: Chrome
+   Google Browsing Organ Network: https://www.google.cn/intl/zh-CN/chrome/
+2. Run the Bat file of Stable Diffusionr normally, and wait for the Bat file to complete and 127.0.0.1:7860 can be accessed normally.
+3. Click the [Run] button of this program, the program will automatically call Google Chrome to access Stable Diffusion and localize it.","使用步骤：
+1.电脑内需要安装最新版谷歌浏览器：Chrome
+  谷歌浏览器官网：https://www.google.cn/intl/zh-CN/chrome/
+2.正常运行Stable Diffusionr的Bat文件，等待Bat执行完成后出现127.0.0.1：7860可以正常访问。
+3.点击本程序的[运行]按钮即可，程序将会自动调用谷歌浏览器访问Stable Diffusion并本地化。","使用手順:
+1. 最新バージョンの Google Chrome がコンピュータにインストールされている必要があります: Chrome
+   Google ブラウジング オルガン ネットワーク: https://www.google.cn/intl/zh-CN/chrome/
+2. Stable Diffusionr の Bat ファイルを通常どおり実行し、Bat ファイルが完了して 127.0.0.1:7860 に正常にアクセスできるようになるまで待ちます。
+3. このプログラムの [実行] ボタンをクリックすると、プログラムは自動的に Google Chrome を呼び出し、Stable Diffusion にアクセスしてローカライズします。","사용 단계:
+1. 컴퓨터에 최신 버전의 Chrome이 설치되어 있어야 합니다. Chrome
+   구글 브라우징 기관 네트워크: https://www.google.cn/intl/zh-CN/chrome/
+2. Stable Diffusionr의 Bat 파일을 정상적으로 실행하고 Bat 파일이 완료되면 127.0.0.1:7860에 정상적으로 접근할 수 있을 때까지 기다립니다.
+3. 이 프로그램의 [실행] 버튼을 클릭하면 프로그램이 자동으로 Chrome을 호출하여 Stable Diffusion에 액세스하고 현지화합니다."
+statement,"statement:
+1. This localization program is completely free, and promises that it will not be charged in the future.
+2. The time limit of this program is to fix bugs and translations after accepting the beta version test, and a new version will be released as soon as possible.
+3. In the future, we may consider adding the sd-webui version and other browsers as appropriate.","声明：
+1.本汉化程序完全免费，并且承诺以后也不会收费。
+2.本程序的时间限制是为了在接受beta版本测试之后修复BUG和译文，后续将会尽快发布新版本。
+3.后续可能会考虑酌情增加sd-webui版本，和其它浏览器。","声明：
+1. このローカリゼーション プログラムは完全に無料であり、将来的に料金が発生しないことを約束します。
+2. このプログラムの期限は、ベータ版のテストを受け入れた後、バグと翻訳を修正することであり、新しいバージョンはできるだけ早くリリースされます。
+3. 今後、sd-webui版や他のブラウザの追加も適宜検討する可能性があります。","성명:
+1. 이 로컬라이제이션 프로그램은 완전 무료이며 향후에는 요금이 부과되지 않을 것을 약속합니다.
+2. 이 프로그램의 시간 제한은 베타 버전 테스트를 수락 한 후 버그 및 번역을 수정하는 것이며 가능한 한 빨리 새 버전이 릴리스됩니다.
+3. 향후 sd-webui 버전 및 기타 브라우저를 적절하게 추가하는 것을 고려할 수 있습니다."
+planning,"planning:
+1. In the future, we may consider adding the sd-webui version and other browsers as appropriate.
+2. It is not troublesome to adapt to other browsers, but it will increase the size of the program, and it will be added later as appropriate.","规划：
+1.后续可能会考虑酌情增加sd-webui版本，和其它浏览器。
+2.适配其它浏览器并不麻烦，但是会增加程序体积，后续酌情考虑添加。","計画:
+1. 今後、sd-webui版や他のブラウザの追加も適宜検討する可能性があります。
+2. 他のブラウザへの対応は面倒ではありませんが、プログラムのサイズが大きくなりますので、後から適宜追加します。","계획:
+1. 향후 sd-webui 버전 및 기타 브라우저를 적절하게 추가하는 것을 고려할 수 있습니다.
+2. 다른 브라우저에 적응하는 것은 번거롭지 않으나 프로그램의 크기가 커지게 되며, 추후 적절하게 추가될 예정입니다."
+RelatedStatements,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">Related Statements</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">相关声明</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">関連ステートメント</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">관련 진술</span></p></body></html>"
+RelatedStatementsTEXT,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" color:#ffffff;"">This program has been encrypted by PYD, and you will not get any cracking information if you try to decompile it.</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" color:#ffffff;"">本程序已通过PYD进行加密，尝试反编译并不会得到任何破解信息。</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" color:#ffffff;"">このプログラムは PYD によって暗号化されており、逆コンパイルしようとしてもクラッキング情報は得られません。</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" color:#ffffff;"">이 프로그램은 PYD에 의해 암호화되었으며 디컴파일하려고 하면 크래킹 정보를 얻을 수 없습니다.</span></p></body></html>"
+Web,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">Web</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">官网</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">公式ウェブサイト</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">공식 웹 사이트</span></p></body></html>"
+WebTEXT,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" color:#ffffff;"">https://openai.wiki</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" color:#ffffff;"">https://openai.wiki</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" color:#ffffff;"">https://openai.wiki</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" color:#ffffff;"">https://openai.wiki</span></p></body></html>"
+updateinfo,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">renew</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">更新</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">更新する</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">고쳐 쓰다</span></p></body></html>"
+updateinfoTEXT,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" color:#ffffff;"">Please keep an eye on Github status</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" color:#ffffff;"">请随时留意Github状态</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" color:#ffffff;"">Github のステータスに注目してください</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" color:#ffffff;"">Github 상태를 주시하십시오</span></p></body></html>"
+Bug_Button,BUG feedback,BUG反馈,バグのフィードバック,버그 피드백
+BUGTextEdit,"BUG feedback:
+The program is written based on Python and encrypted with PYD. There may be some bugs in the initial localization. Testing and feedback are welcome. If you are not satisfied with some of the translated vocabulary, or feel inappropriate, please submit it through the Bug feedback button.","BUG反馈：
+该程序基于Python编写，使用PYD进行加密，初次汉化可能存在一些BUG，欢迎测试和反馈，如果你对一些翻译的词汇不满意，或感觉并不贴切，欢迎通过Bug反馈按钮进行提交。
+
+本程序后续更新将会通过QQ群文件发布，QQ群在本程序的[关于]页面，欢迎在群内交流AI相关内容。","バグのフィードバック:
+このプログラムは Python に基づいて作成され、PYD で暗号化されています. 初期ローカライズにはいくつかのバグがある可能性があります. テストとフィードバックは大歓迎です. 翻訳された語彙の一部に満足できない場合、または不適切だと感じた場合は、Bug から送信してくださいフィードバック ボタン。","버그 피드백:
+이 프로그램은 Python 기반으로 작성되었으며 PYD로 암호화되어 있습니다. 초기 현지화에 약간의 버그가 있을 수 있습니다. 테스트 및 피드백을 환영합니다. 번역된 어휘 중 일부가 만족스럽지 않거나 부적절하다고 생각되면 버그를 통해 제출하십시오. 피드백 버튼."
+Version_Label_2,Version,程序版本,バージョン,버전
+UPDataTime_Label_2,Updated,更新日期,更新しました,업데이트됨
+Github_Label,GitHub,GitHub,GitHub,GitHub
+QQGroup,QQ群,QQ群,QQ群,QQ群
+JoinQQGroup_Button,一键加群,一键加群,一键加群,一键加群
+Email_Label_2,Email,邮箱,Email,Email
+CopyEmail_Button,Copy Email,复制邮箱,コピー Email,복사 Email
+JuanZeng_Label,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:20pt; font-weight:600; color:#ff79c6;"">donate</span></p>
+<p align=""left"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">personal:</span></p>
+<p align=""left"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:9pt; color:#ffffff;"">If this program is helpful to you personally, I hope you can consider donating to me, after all, maintaining the software is laborious, thank you.</span></p></body></html>
+<p align=""left"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">company:</span></p>
+<p align=""left"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:9pt; color:#ffffff;"">If you are a company or any for-profit organization, please be able to declare the URL of this software GIthub when using this software, thank you.</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:20pt; font-weight:600; color:#ff79c6;"">捐赠</span></p>
+<p align=""left"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">个人</span></p>
+<p align=""left"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:9pt; color:#ffffff;"">如果本程序对您个人有所帮助，希望您可以考虑对我进行捐款，毕竟维护软件费心费力，谢谢。</span></p></body></html>
+<p align=""left"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">公司</span></p>
+<p align=""left"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:9pt; color:#ffffff;"">如果您是公司或任何盈利组织，请在使用本软件时能够声名本软件GIthub的URL，谢谢。</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:20pt; font-weight:600; color:#ff79c6;"">寄付</span></p>
+<p align=""left"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">個人的：</span></p>
+<p align=""left"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:9pt; color:#ffffff;"">このプログラムが個人的に役立つ場合は、寄付を検討していただければ幸いです。結局のところ、ソフトウェアの維持は面倒です。ありがとうございます。</span></p></body></html>
+<p align=""left"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">会社：</span></p>
+<p align=""left"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:9pt; color:#ffffff;"">あなたが企業または営利団体である場合、このソフトウェアを使用する際には、このソフトウェアの URL を GIthub に宣言できるようにしてください。よろしくお願いします。</span></p></body></html>","<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0//EN"" ""http://www.w3.org/TR/REC-html40/strict.dtd"">
+<html><head><meta name=""qrichtext"" content=""1"" /><meta charset=""utf-8"" /><style type=""text/css"">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+</style></head><body style="" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"">
+<p align=""center"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:20pt; font-weight:600; color:#ff79c6;"">기부하다</span></p>
+<p align=""left"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">개인의:</span></p>
+<p align=""left"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:9pt; color:#ffffff;"">이 프로그램이 개인적으로 도움이 되었다면 저에게 기부하는 것을 고려해 주셨으면 합니다. 결국 소프트웨어를 유지 관리하는 것은 힘든 일입니다. 감사합니다.</span></p></body></html>
+<p align=""left"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:12pt; font-weight:600; color:#ff79c6;"">회사:</span></p>
+<p align=""left"" style="" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;""><span style="" font-size:9pt; color:#ffffff;"">회사 또는 영리 단체인 경우 이 소프트웨어를 사용할 때 이 소프트웨어의 URL을 Github에 선언할 수 있습니다. 감사합니다.</span></p></body></html>"
+JuanZengButton,Click to donate,点击捐赠,クリックして寄付,기부하기 클릭
+JuanZengButtonURL,https://paypal.me/YuFengCc?country.x=C2&locale.x=zh_XC,https://paypal.me/YuFengCc?country.x=C2&locale.x=zh_XC,https://paypal.me/YuFengCc?country.x=C2&locale.x=zh_XC,https://paypal.me/YuFengCc?country.x=C2&locale.x=zh_XC
+copied,copied,已复制,コピーした,복사
